@@ -4,7 +4,7 @@ package front
 import (
 	"bytes"
 
-	"gopkg.in/yaml.v1"
+	"gopkg.in/yaml.v3"
 )
 
 // Delimiter.
