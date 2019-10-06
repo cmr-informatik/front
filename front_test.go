@@ -35,7 +35,6 @@ func Example() {
 	fmt.Printf("%s\n", string(content))
 	// Output:
 	// front_test.article{Title:"Ferrets", Authors:[]string{"Tobi", "Loki", "Jane"}}
-	//
 	// Some content here, so
 	// interesting, you just
 	// want to keep reading.

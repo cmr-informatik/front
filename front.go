@@ -8,7 +8,7 @@ import (
 )
 
 // Delimiter.
-var delim = []byte("---")
+var delim = []byte("---\n")
 
 // Unmarshal parses YAML frontmatter and returns the content. When no
 // frontmatter delimiters are present the original content is returned.
